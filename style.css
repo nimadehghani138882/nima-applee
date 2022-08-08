@@ -110,12 +110,10 @@ body {
 
 .slider-text {
     position: absolute;
-    position: static;
-    position: relative;
-    position: fixed;
     top: 0px;
     left: 0px;
     background: red;
+    z-index: 1;
 }
 
 .img1 img {
