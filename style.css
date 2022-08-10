@@ -145,15 +145,21 @@ h4:hover {
 
 .slider-wrapper {
     width: 100%;
-    height: 100px;
+    height: 500px;
     position: relative;
+    overflow: hidden;
 }
 
 .slider-background {
     width: 100%;
     height: 100%;
+    
 }
-
+.slider-background img{
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
 .slider-text {
     /* position: absolute; */
     top: 0px;
