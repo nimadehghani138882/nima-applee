@@ -161,7 +161,7 @@ h4:hover {
     object-fit: contain;
 }
 .slider-text {
-    /* position: absolute; */
+    position: absolute;
     top: 0px;
     left: 365px;
 }
@@ -189,14 +189,14 @@ h4:hover {
 }
 
 .macbook {
-    /* position: absolute; */
+    position: absolute;
     top: 1390px;
     left: -232px;
     margin-left: 5px;
 }
 
 .macbook2 {
-    /* position: absolute; */
+    position: absolute;
     top: 1450px;
     left: -232px;
     font-size: 20px;
@@ -204,14 +204,14 @@ h4:hover {
 }
 
 .h4 {
-    /* position: absolute; */
+    position: absolute;
     margin-left: -167px;
     color: blue;
     font-size: 19px;
     top: 1501px;
 }
 .h4-1{
-    /* position: absolute; */
+    position: absolute;
     margin-left: -35px;
     color:blue;
     font-size: 19px;
@@ -222,26 +222,26 @@ h4:hover {
     height:900px;
 }
 .h4-2{
-    /* position: absolute; */
+    position: absolute;
     top:1840px;
     left:46px;
     margin-left:180px;
 }
 .iphone13{
-    /* position: absolute; */
+    position: absolute;
     top:1900px;
     left:230px;
     font-size: 23px;
 }
 .h4-3{
-    /* position: absolute; */
+    position: absolute;
     color:blue;
     font-size: 19px;
     top:1950px;
     left:250px;
 }
 .h4-4{
-    /* position: absolute; */
+    position: absolute;
     color:blue;
     font-size: 19px;
     top:1950px;
