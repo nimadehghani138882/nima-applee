@@ -87,6 +87,9 @@ body {
     height: 44px;
     margin: 5px 8px 0px 8px;
     margin-left: 350px;
+    margin-right: -20px;
+    display: inline;
+    margin-top: -5px;
 }
 
 .wrapper {
@@ -106,7 +109,7 @@ body {
 }
 
 .headr {
-    background-color: #1d1d1f;
+    background-color: #fbfbfd;
     height: 100%;
     height: 35px;
     padding: 22px 460px;
@@ -139,111 +142,65 @@ h4:hover {
     height: 900px;
 }
 
-.pepe {
-    color: #ca2166;
+.conect-text h4 {
+    margin-top: 10px;
 }
 
-.slider-wrapper {
-    width: 100%;
-    height: 500px;
-    position: relative;
-    overflow: hidden;
-}
-
-.slider-background {
+.unit-image-style {
     width: 100%;
     height: 100%;
-    
-}
-.slider-background img{
-    height: 100%;
-    width: 100%;
-    object-fit: contain;
-}
-.slider-text {
-    position: absolute;
-    top: 0px;
-    left: 365px;
 }
 
-.unit {
-    font-size: 35px;
+.headline {
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+    font-size: 45px;
+    line-height: 1.125;
+    font-weight: 600;
+    letter-spacing: .004em;
 }
 
-.unit-copy {
-    font-size: 25px;
-    top: 0px;
-    left: 20px;
-    margin-left: 70px;
+.subhead {
+    font-size: 22px;
+    line-height: 1.21053;
+    font-weight: 400;
+    letter-spacing: 0em;
+    margin-left:167px;
+    margin-bottom: 0;
 }
-
-.mpape {
-    color: blue;
-    margin-left: 280px;
-    font-size: 23px;
-}
-
-.aks3 {
-    width: 100%;
-    height: 900px;
-}
-
-.macbook {
-    position: absolute;
-    top: 1390px;
-    left: -232px;
-    margin-left: 5px;
-}
-
-.macbook2 {
-    position: absolute;
-    top: 1450px;
-    left: -232px;
-    font-size: 20px;
-    margin-left: 60px;
-}
-
-.h4 {
-    position: absolute;
-    margin-left: -167px;
-    color: blue;
-    font-size: 19px;
-    top: 1501px;
-}
-.h4-1{
-    position: absolute;
-    margin-left: -35px;
-    color:blue;
-    font-size: 19px;
-    top:1501px;
-}
-.aks4{
-    width:100%;
-    height:900px;
-}
-.h4-2{
-    position: absolute;
-    top:1840px;
-    left:46px;
+.bold-text-1{
     margin-left:180px;
 }
-.iphone13{
-    position: absolute;
-    top:1900px;
-    left:230px;
-    font-size: 23px;
+.unit-text{
+    background:#fbfbfd;
 }
-.h4-3{
-    position: absolute;
-    color:blue;
-    font-size: 19px;
-    top:1950px;
-    left:250px;
+.bold-text-2{
+    margin-left:40px;
 }
-.h4-4{
-    position: absolute;
-    color:blue;
-    font-size: 19px;
-    top:1950px;
-    left:400px; 
+.unit-image-2-style{
+    width:600px;
+    height:500px;
+}
+.headline-2{
+    font-size: 50px;
+    line-height: 1.125;
+    font-weight: 600;
+    letter-spacing: .004em;
+    margin-left:110px;
+}
+.subhead-2{
+    font-size: 30px;
+    line-height: 1.21053;
+    font-weight: 400;
+    letter-spacing: 0em;
+    margin-left:199px;
+}
+.bold-text-3{
+    margin-left:180px;
+}
+.bold-text-4{
+    margin-left:40px;
+}
+.unit-text-2{
+    background:#fbfbfd;
 }
